@@ -43,13 +43,6 @@ A missão da Generation Brasil é apoiar jovens a construírem carreiras sustent
 
 ## 🎨 imagens
 
-### : Mobile
-![af497a5c-fa8e-4f70-bb92-db10273b077d](https://github.com/TerraVerdePI/Front-End_Projeto_Integrador/assets/127262251/1b400c72-86e5-4e81-a482-de1719e67950)
-
-![71dd663d-ea0a-4edc-85e9-ed3d8f0d0d24](https://github.com/TerraVerdePI/Front-End_Projeto_Integrador/assets/127262251/cfc435d8-ba84-46a7-804d-e9bcef3aefa9)
-
-<p
-	
 
 ### : Web
 
